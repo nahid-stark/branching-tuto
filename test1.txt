@@ -1,2 +1,6 @@
 branching test
+<<<<<<< HEAD
 v2.0.0
+=======
+v 2.2.8
+>>>>>>> 9faccce3f4f15a8650b9d894635787cdf12711c9
